@@ -18,14 +18,6 @@ The project was developed as a team exercise, but I was the main contributor and
 
 ---
 
-## 🔹 Project Files
-
-- [index.html](https://raw.githubusercontent.com/Hasan-Alraei/simple-calculator/refs/heads/main/index.html)
-- [style.css](https://raw.githubusercontent.com/Hasan-Alraei/simple-calculator/refs/heads/main/style.css)
-- [script.js](https://raw.githubusercontent.com/Hasan-Alraei/simple-calculator/refs/heads/main/script.js)
-
----
-
 ## 🔹 About the Project
 
 This was one of our early web projects in the 11th grade.  
